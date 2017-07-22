@@ -71,7 +71,8 @@ let g:mapleader=' '
 
 
 " Tomorrow
-colorscheme tomorrow-night-bright
+colorscheme Tomorrow-Night-Bright
+highlight Normal ctermbg=none
 
 " Airline
 " let g:airline_theme="molokai"
