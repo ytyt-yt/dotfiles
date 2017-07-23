@@ -1,8 +1,8 @@
 [user]
-	name = ytyt-yt
-	email = git@ytyt.yt
+    name = ytyt-yt
+    email = git@ytyt.yt
 [alias]
-	co = checkout
+    co = checkout
     br = branch
     c = commit
     cm = commit -m
