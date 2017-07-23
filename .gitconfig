@@ -1,0 +1,21 @@
+[user]
+	name = ytyt-yt
+	email = git@ytyt.yt
+[alias]
+	co = checkout
+    br = branch
+    c = commit
+    cm = commit -m
+    st = status
+    df = diff
+    dft = difftool
+    ps = push
+    psom = push origin master
+    psuom = push -u origin master
+    pl = pull
+    plom = pull origin master
+
+[diff]
+    tool = vimdiff
+[difftool]
+    prompt = false
